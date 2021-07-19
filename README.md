@@ -1,7 +1,7 @@
 # HippodromeGame
 
 This is simple console simulation of horse race with three participants
-(you can always add more by creating new horse objects in **Hippodrome.java**).
+(you can always add more by creating new *Horse* objects in **Hippodrome.java**).
 The purpose of this game is to have some fun and maybe to try to guess which
 one of the players would win.
 
